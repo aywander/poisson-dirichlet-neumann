@@ -1,4 +1,4 @@
-# poisson-dirichlet-fft-solver
+# poisson-dirichlet-fft-example
 
 A minimal working example in python of solving the Poisson equation with Dirichlet boundary conditions (BC) with direct sine transforms (DST), according to Numerical Recipes 3rd Edition, Chapter 20 Section 4.
 
